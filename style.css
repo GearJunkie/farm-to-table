@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(66, 4, 4);
+}
+
+header {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(250, 235, 215);
+    border: rgb(66, 4, 4);
+    background-color: darkslategray;
+    text-align: center;
+}
+
+header li {
+    border: antiquewhite;
+    display: inline;
+    background-color: darkslategray;
+    color: antiquewhite;
+    text-align: center;
+    padding: 2px;
+}
+
+section {
+    text-align: center;
+    color: #faebd7;
+}
+
+footer {
+    text-align: center;
+    color: antiquewhite;
+    background-color: darkslategray;
+}
+
