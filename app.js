@@ -47,7 +47,6 @@ function userGuessingGame(){
         }
     }
 
-userGuessingGame();
 
 function mealKit(){
     let numberMealKit = prompt("How many meal kits would you like to see?")
